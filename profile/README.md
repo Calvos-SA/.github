@@ -2,7 +2,7 @@
 ### QUAL A MISSÃO DA EMPRESA?
 Nossa empresa tem como principal missão oferecer ao cliente uma forma de compreender os níveis de calvíce, quais os procedimentos e métodos para tratar ou remediar a problemática. 
 ### QUAL A VISÃO DA EMPRESA?
-A empresa almeja obter parceria com marcas de produtos capilares para que estes possam ser divulgados dentro da aplicação. Além disso,  tornar a aplicação um serviço como um todo, proporcionando ao usuário um acompanhamento do nível de calvície, tratamento e possibilitar a solicitação de consultas para os usuários.
+A empresa almeja obter parceria com marcas de produtos capilares para que estes possam ser divulgados dentro da aplicação. Além disso,  tornar a aplicação um serviço como um todo, proporcionando ao usuário um acompanhamento do nível de calvície, acompanhamento de tratamentos em andamento e possibilitar a solicitação de consultas para os usuários.
 ### QUAIS SÃO OS VALORES DA EMRPESA?
 Nossa empresa tem como principais valores oferecer um serviço de qualidade, inovador e que traga para o cliente satisfação pelo serviço oferecido.
 ## ORGANOGRAMA DA EMPRESA
