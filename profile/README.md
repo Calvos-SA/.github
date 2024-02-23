@@ -18,6 +18,4 @@ Neste projeto iremos desenvolver uma aplicação mobile para detecção de níve
 - [Luciano Ramos](https://github.com/lucianoRcosta)
 ### TREINAMENTO DO YOLO
 - [Renan Carneiro](https://github.com/Renan-Carneiro-Batista)
-- [Luciano Ramos Costa](https://github.com/lucianoRcosta)
-- [Caio Peixoto](https://github.com/caiocfpeixoto/)
 
